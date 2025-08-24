@@ -1,16 +1,12 @@
-## Hi there 👋
+### Hi there, I'm Sunya 👋
 
-<!--
-**Sunya13/Sunya13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a tech enthusiast who loves diving into home projects.
+Over the years, I've accumulated a lot of code, and while it might not all be worth sharing, I've decided to create this new account to better organize my work. My goal is to build a repository with cleaner, more structured code, and I'm focusing on:
+## * Organized Commits: 
+Using a clear and logical commit history.
+## * Better Pipelines: 
+Creating streamlined and efficient workflows.
+ ## * Synchronized Documentation: 
+Aligning my documentation with my Jira stories for better project tracking.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my repositories. I'm excited to share my journey as I build a more organized and documented collection of my work.
